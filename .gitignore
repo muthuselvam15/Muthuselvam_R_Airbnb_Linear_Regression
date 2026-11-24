@@ -1,0 +1,13 @@
+# Dataset (download separately from Kaggle)
+AB_NYC_2019.csv
+*.zip
+
+# Generated analysis outputs
+airbnb_project_outputs/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+.env
